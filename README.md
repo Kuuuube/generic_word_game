@@ -4,11 +4,15 @@ Misc edits based off http://genericwordgame.com/
 
 ## Usage
 
-1. Open either `Generic-Word-Game.htm` or `Generic-Word-Game-Rand.htm`
+1. Open `Generic-Word-Game.htm`
 
-    `Generic-Word-Game.htm` generates a puzzle using a 7 letter word as its base.
+2. To create a new puzzle, use the top right buttons.
 
-    `Generic-Word-Game-Rand.htm` generates a puzzle using 7 random letters.
+    - `New Puzzle` creates a puzzle based on randomized letters that form a word. It guarantees at least one pangram (word where all letters are used).
+
+    - `New Random Puzzle` creates a puzzle from entirely random letters. No guarantees are made for these puzzles. Some random puzzles do not contain any words.
+
+    - `New Custom Puzzle` allows for configuring various parameters to generate a puzzle based off of.
 
 ## Warning
 
