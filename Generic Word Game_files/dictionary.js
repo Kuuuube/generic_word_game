@@ -62070,5 +62070,6 @@ let dictionary_json = `[
   "sassiest",
   "sans",
   "braw",
-  "klick"
+  "klick",
+  "savanna"
 ]`
